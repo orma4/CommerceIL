@@ -1,6 +1,5 @@
 import { sampleProducts } from './Data'
 
-///
 //
 // Methods of this class are used to simulate calls to server.
 //
