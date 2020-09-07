@@ -20,6 +20,7 @@
     "plugins": [
         "react"
     ],
+    "linebreak-style": [0],
     "rules": {
         "indent": [
             "error",
@@ -31,7 +32,6 @@
                 "varsIgnorePattern": "^[A-Z]"
             }
         ],
-        "eslint linebreak-style": ["error", "windows"],
         "quotes": [
             "error",
             "single"
