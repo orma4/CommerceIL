@@ -1,5 +1,12 @@
-# Online-store [![CircleCI](https://circleci.com/gh/Naseem77/Online-store.svg?style=svg)](https://circleci.com/gh/Naseem77/Online-store)
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+# Online-store [![CircleCI](https://circleci.com/gh/orma4/Online-Store.svg?style=svg)](https://circleci.com/gh/orma4/Online-Store)
+
+
+
+
+## Build/Run
+
+Heroku: https://project-sce123.herokuapp.com/
+
 
 
 ## Entering Admin Panel
@@ -8,10 +15,6 @@ Username: admin@gmail.com
 Password: admin@gmail.com
 
 ```
-
-## Build/Run
-
-Heroku: https://project-sce123.herokuapp.com/
 
 #### Requirements
 
