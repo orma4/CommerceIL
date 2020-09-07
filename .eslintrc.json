@@ -31,10 +31,7 @@
                 "varsIgnorePattern": "^[A-Z]"
             }
         ],
-        "linebreak-style": [
-            "error",
-            "windows"
-        ],
+        "eslint linebreak-style": ["error", "windows"],
         "quotes": [
             "error",
             "single"
