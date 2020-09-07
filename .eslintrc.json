@@ -20,7 +20,6 @@
     "plugins": [
         "react"
     ],
-    "linebreak-style": [0],
     "rules": {
         "indent": [
             "error",
