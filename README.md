@@ -1,4 +1,4 @@
-# Online-store [![CircleCI](https://circleci.com/gh/orma4/Online-Store.svg?style=svg)](https://circleci.com/gh/orma4/Online-Store)
+# Online-store [![CircleCI](https://app.circleci.com/pipelines/github/orma4/Online-Ecommerce.svg?style=svg)](https://app.circleci.com/pipelines/github/orma4/Online-Ecommerce)
 
 
 
