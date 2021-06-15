@@ -45,7 +45,7 @@ npm run lint
 7- View orders
 8- Registering 
 9- Uploading image for student
-10- Adming adding new products to firebase
+10- Admin adding new products to firebase
 11- Admin editing details
 12- login as user and admin
 13- Showing available products in the shop with details
